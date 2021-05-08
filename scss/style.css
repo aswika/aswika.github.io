@@ -195,6 +195,7 @@ body {
   .food-planner-cover, .caninvest-cover {
     width: 30vw;
     height: auto;
+    max-height: 300px;
   }
   .project-list {
     margin: 5% 15%;
@@ -213,7 +214,7 @@ body {
     font-size: 3vw;
   }
   .project-blurb {
-    font-size: 1.5vw;
+    font-size: 18px;
   }
   .company-name {
     font-size: 2vw;
