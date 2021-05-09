@@ -32,7 +32,7 @@ body {
 
 .page-links {
   margin: 30% auto;
-  width: 60%;
+  width: 40%;
 }
 
 .page-links a {
@@ -75,7 +75,7 @@ body {
   }
   .page-links {
     margin: 4% auto 0 auto;
-    width: 50%;
+    width: 30%;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -101,7 +101,7 @@ body {
 }
 
 .nav-links {
-  width: 80%;
+  width: 60%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -186,7 +186,7 @@ body {
     word-wrap: none;
   }
   .nav-links {
-    width: 30%;
+    width: 20%;
     margin: auto 2%;
   }
   .nav-links a {
